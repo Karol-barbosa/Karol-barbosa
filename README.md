@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="100" src="NameKarol.jpeg">
+  <img src="NameKarol.jpeg" style="width: 100vw; height: 100vh; object-fit: cover; transform: rotate(-45deg); position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-45deg);" />
 </p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karol
