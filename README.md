@@ -1,42 +1,51 @@
 <p align="center">
-  <img src="NameKarol.jpeg" style="width: 100vw; height: 100vh; object-fit: cover; transform: rotate(-45deg); position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-45deg);" />
+  <img src="https://github.com/Karol-barbosa/Karol-barbosa/blob/main/NameKarol.jpeg" alt="Name Karol" style="max-width: 100%; height: auto; object-fit: cover;">
 </p>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karol
-=============================================================================================================================
+# Welcome to My GitHub 🎉
+Hi there! I'm **Karol**, an 18-year-old content creator and aspiring web developer based in **São Paulo, SP**. I’ve been passionate about video editing since I was 10, turning it into a job that connected me with amazing Brazilian personalities like **Luísa Sonza** and **Vanessa Lopes**. Now, I’m diving deep into the world of **coding** and **technology** while exploring new opportunities in **marketing**. 🚀
 
-Welcome to my GitHub
---------------------
+---
 
-### **Fun Facts About Me**
+## 🌟 About Me
+- 🌍 Based in **São Paulo, SP**
+- ✉️ Contact me at [zinhak661@gmail.com](mailto:zinhak661@gmail.com)
+- 🎂 **18 years old** and excited for the future!
 
-* 🌍  I'm based in São Paulo, SP
-* ✉️  You can contact me at [zinhak661@gmail.com](mailto:zinhak661@gmail.com)
-* 🧠  I'm learning HTML and JavaSript
-*  🎂 I'm 18 years old and excited for the future!
- I’ve been editing and recording videos since I was 10 years old, and I turned it into a job.
-- 💼 I was noticed by famous Brazilian personalities like Luísa Sonsa and Vanessa Lopes thanks to my skills.
-- 🌱 I'm passionate about learning new technologies and I am currently diving deep into HTML and JavaScript.
-- 🏋️‍♂️ I like going to the gym.
-- 📚 I enjoy reading books
-- 📊 I'm passionate about marketing
+---
 
-- ### **This is my Buddy**
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/75268485?v=4" width="50" height="50" alt="Buddy Image"/>
-  This is my buddy! [GitHub](https://github.com/iwsmimsantos)!
-</p>
+## 🎥 Fun Facts
+- 🎬 Video editing pro since I was 10 years old!
+- 💼 Recognized by **Luísa Sonza** and **Vanessa Lopes** for my editing skills.
+- 🏋️‍♀️ Fitness enthusiast—love spending time at the gym.
+- 📚 Avid reader who loves diving into books.
+- 🌱 Passionate about learning **HTML**, **JavaScript**, and new technologies.
+- 📊 Exploring the exciting world of **marketing**.
 
+---
 
-### Skills
-
+## 🛠 Skills
+I’m currently focusing on improving my skills in:
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 </p>
 
+---
 
+## 🤝 Meet My Buddy!
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/75268485?v=4" width="50" height="50" alt="Buddy Image"/>
+  <p><a href="https://github.com/iwsmimsantos" target="_blank">Check out their GitHub!</a></p>
+</div>
 
-### Socials
+---
 
-<p align="left"> <a href="https://discord.com/users/karolzinhawx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/kar0lbarbosa_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+## 📱 Let's Connect!
+Find me on social media:
+
+<p align="left">
+<a href="https://discord.com/users/karolzinhawx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord"/></a>
+<a href="http://www.instagram.com/kar0lbarbosa_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram"/></a>
+</p>
