@@ -15,7 +15,7 @@ Hi there! I'm **Karol**, an 18-year-old content creator and aspiring web develop
 ---
 
 ## 🎥 Fun Facts
-- 🎬 Video editing pro since I was 10 years old!
+- 🎬 I've been editing videos since I was 10 years
 - 💼 Recognized by **Luísa Sonza** and **Vanessa Lopes** for my editing skills.
 - 🏋️‍♀️ Fitness enthusiast—love spending time at the gym.
 - 📚 Avid reader who loves diving into books.
