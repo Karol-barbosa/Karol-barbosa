@@ -10,7 +10,7 @@ Hi there! I'm **Karol**, an 18-year-old content creator and aspiring web develop
 ## 🌟 About Me
 - 🌍 Based in **São Paulo, SP**
 - ✉️ Contact me at [zinhak661@gmail.com](mailto:zinhak661@gmail.com)
-- 🎂 **18 years old** and excited for the future!
+- 🎂 **19 years old** and excited for the future!
 
 ---
 
